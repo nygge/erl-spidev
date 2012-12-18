@@ -1,0 +1,7 @@
+Erlang spidev wrapper
+
+Inspired by py-spidev [1], currently supports a subset of the functions.
+The spitest module is an example of usage, it has been tested with a
+MCP3002 IC with a sensor connected to the channel 0.
+
+[1] https://github.com/doceme/py-spidev
